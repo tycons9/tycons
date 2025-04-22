@@ -85,11 +85,7 @@ I believe **technology + education = unlimited possibilities**! Also, I love **m
 
 ---
 
-# 🐍 Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tycons9/tycons9/output/snake.svg" alt="Snake Animation" />
-</div>
 
 
 [![](https://visitcount.itsvg.in/api?id=tycons9&icon=9&color=0)](https://visitcount.itsvg.in)
