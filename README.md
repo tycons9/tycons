@@ -83,13 +83,14 @@ I believe **technology + education = unlimited possibilities**! Also, I love **m
   <img src="https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=false" alt="Streak Stats"><br/>
 </div>
 
-### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
-
 ---
+
+# 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tycons9/tycons9/output/snake.svg" alt="Snake Animation" />
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=tycons9&icon=9&color=0)](https://visitcount.itsvg.in)
 
