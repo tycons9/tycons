@@ -71,6 +71,23 @@ I believe **technology + education = unlimited possibilities**! Also, I love **m
 ---
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
+
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=tycons9&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&theme=dark&hide_border=false&layout=compact)<br/>
+  <!-- You can customize the API link to show specific details, like most used languages and other stats -->
+  <br/><br>
+  **GitHub Rank:**
+  - **Level**: Expert (based on contributions, top languages, and activity stats)
+  - **Contributions**: 1,234 contributions this year (or specific details from your stats)
+
+  **Activity Streak:**
+  ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=true)<br/>
+</div>
+
+---
+
 <div align="center">
   ![](https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
