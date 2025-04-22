@@ -49,6 +49,8 @@
 
 ---
 
+### 🐍 Snake Animation
+
 <br clear="both" />
 
 <p align="center">
