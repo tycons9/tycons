@@ -72,13 +72,16 @@ I believe **technology + education = unlimited possibilities**! Also, I love **m
 
 # 📊 GitHub Stats:
 
-
 <div align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tycons9&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats"><br/>
 
----
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&theme=dark&hide_border=false&layout=compact" alt="Top Languages"><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=false" alt="Streak Stats"><br/>
+</div>
 
 ### 🐍 Snake Animation
 
